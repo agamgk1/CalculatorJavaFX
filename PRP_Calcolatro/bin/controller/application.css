@@ -1,0 +1,66 @@
+#buttonNum {
+  -fx-background-color: #C2BFBD;
+  -fx-border-color: black;
+  -fx-border-width: 0.5px;
+}
+
+#buttonCount {
+  -fx-background-color: #4EC617;
+  -fx-border-color: black;
+  -fx-border-width: 0.5px;
+  
+}
+#button1 {
+  -fx-background-color: #FC8833;
+  -fx-border-color: black;
+  -fx-border-width: 0.5px;
+}
+#buttonNum:hover {
+  -fx-background-color: #ADABAA;
+  -fx-border-color: black;
+  -fx-border-width: 0.5px;
+}
+#button1:hover {
+  -fx-background-color: #FE7009;
+  -fx-border-color: black;
+  -fx-border-width: 0.5px;
+}
+
+#buttonCount:hover {
+  -fx-background-color: #3AA20B;
+  -fx-border-color: black;
+  -fx-border-width: 0.5px;
+}
+#button1:pressed {
+  -fx-background-color: #FC8833;
+  -fx-border-color: black;
+  -fx-border-widtg: 1px;
+  -fx-scale-x:1.05;
+  -fx-scale-y:1.05;
+}
+#buttonCount:pressed {
+  -fx-background-color: #4EC617;
+  -fx-border-color: black;
+  -fx-border-widtg: 1px;
+  -fx-scale-x:1.05;
+  -fx-scale-y:1.05;
+}
+
+#buttonNum:pressed {
+  -fx-background-color: #C2BFBD;
+  -fx-border-color: black;
+  -fx-border-widtg: 1px;
+  -fx-scale-x:1.05;
+  -fx-scale-y:1.05;
+}
+
+#display {
+  -fx-background-color: #808080;
+  -fx-border-color: black;
+  -fx-border-width: 0.5px;
+}
+#pane {
+
+  -fx-border-color: black;
+  -fx-border-width: 0.5px;
+}
